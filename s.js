@@ -6,7 +6,7 @@
     },
     {
       "title": "Song 2",
-      "url": "https://github.com/Vivekmasona/audjs/raw/main/audio/rt2.mp3"
+      "url": "https://github.com/Vivekmasona/audjs/raw/main/audio/audio_rt.mp3"
     }
   ]
 }
